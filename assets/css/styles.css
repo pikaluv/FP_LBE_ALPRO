@@ -6,9 +6,6 @@
      --header-height: 3rem;
 
      /*========== Warna ==========*/
-     --hue-color: 190;
-
-     /* HSL */
      --first-color: #189ab4;
      --first-color-second: #05445e;
      --first-color-alt: #83cedd;
@@ -424,13 +421,7 @@ img {
      margin-bottom: var(--mb-0-75);
 }
 
-/*==================== QUALIFICATION ====================*/
-
-/*==================== SERVICES ====================*/
-
-/* Active Modal */
-
-/*==================== PORTFOLIO ====================*/
+/*==================== PROJECT ====================*/
 .project__container {
      overflow: initial;
 }
@@ -486,10 +477,6 @@ img {
 .swiper-horizontal > .swiper-pagination-bullets {
      bottom: -2.5rem;
 }
-
-/*==================== PROJECT IN MIND ====================*/
-
-/*==================== TESTIMONIAL ====================*/
 
 /*==================== CONTACT ME ====================*/
 .contact__container {
@@ -599,7 +586,7 @@ img {
 .scrollup {
      position: fixed;
      right: 1rem;
-     bottom: -20%rem;
+     bottom: 1rem;
      background-color: var(--first-color);
      opacity: 0.8;
      padding: 0 0.3rem;
